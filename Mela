@@ -1,0 +1,21 @@
+
+n=int(input("ingrese un número"))
+If (n>=3 and n <=30);
+suma=0
+for n in range (1, n +1);
+If n % 2== 0;
+suma += n
+print (n)
+print ("El resultado de la : ", suma)
+else:
+print ( " valores no válidos" )
+
+
+
+Segundo código 
+n=int(input("ingrese un número"))
+If (n>=3 and n <=30);
+for s in range (1, n +1);
+If s % 3== 0;
+suma += n
+print (s)
